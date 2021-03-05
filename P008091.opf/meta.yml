@@ -1,15 +1,16 @@
-id: opecha:P008091
+id: P008091
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG13776
   title: ཚན་རྩལ་རིག་པའི་སྤྱི་བཤད།
-  volume:
+  author: ''
+  volumes:
     86b02027ebd5472c84b768fb7ad01609:
       image_group_id: I1KG15260
       title: Volume 1 of tshan rtsal rig pa'i spyi bshad/
       volume_number: 1
       total_pages: 138
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཚན་རྩལ་རིག་པའི་སྤྱི་བཤད།
   author: ''
